@@ -4,7 +4,7 @@
 
 <img width="400" align="center" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47i1ri9csq3dh8rtctmf2nlbrcvqhqzbhhizxmd1ul&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotika6221&label=Profile%20views&color=0e75b6&style=flat" alt="jyotika6221" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jyotika6221&label=Profile%20views&color=0e75b6&style=flat" alt="jyotika6221" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotika6221" alt="jyotika6221" /></a> </p>
