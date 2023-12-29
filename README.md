@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌SOPHOMORE | Frontend Developer | ML enthusiast | Problem Solving<br>👩‍💻I'm currently working on Javascript<br>🤷‍♀️Fun fact- I think I am cool
+📌SOPHOMORE | Frontend Developer | ML enthusiast | Problem Solving<br>👩‍💻I'm currently working on Javascript<br>🤷‍♀️Fun fact- I'm pretty lazy but nobody knows!
 
 
 ## 🌐 Socials:
