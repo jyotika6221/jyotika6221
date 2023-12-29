@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Jyotika Jaichand</h1>
 <h3 align="center">Sophomore | Frontend developer | DSA | ML enthusiast</h3>
-
-<img width="400" align="center" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47i1ri9csq3dh8rtctmf2nlbrcvqhqzbhhizxmd1ul&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<div align="center">
+  <img width="400" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47i1ri9csq3dh8rtctmf2nlbrcvqhqzbhhizxmd1ul&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated GIF" />
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jyotika6221&label=Profile%20views&color=0e75b6&style=flat" alt="jyotika6221" /> </p>
 
