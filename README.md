@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌SOPHOMORE | Frontend Developer | ML enthusiast | DSA<br>👩‍💻I'm currently working on Javascript<br>🤷‍♀️Fun fact- I love to code!
+📌STUDENT | Frontend Developer | ML enthusiast | DSA<br>👩‍💻I'm currently working on Javascript<br>🤷‍♀️Fun fact- I love to code!
 
 
 ## 🌐 Socials:
